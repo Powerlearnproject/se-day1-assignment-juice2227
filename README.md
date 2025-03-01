@@ -151,6 +151,17 @@ Validates performance, security, usability, and compatibility.
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+Prompt engineering is the practice of designing and optimizing input prompts to effectively interact with AI models, such as ChatGPT, Bard, or Claude, to generate accurate, relevant, and high-quality responses.
+importance
+Improves AI Response Accuracy - A well-structured prompt helps reduce ambiguous, irrelevant, or incorrect responses. Providing clear instructions ensures that the AI generates precise and useful output.
+Enhances Efficiency and Productivity - By using well-optimized prompts, users can save time by obtaining more relevant and structured answers in fewer iterations.
+Enables Customization and Control - Prompt engineering allows users to fine-tune AI responses for different needs, whether for formal reports, casual conversations, or technical documentation.
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+example of vague prompt: Tell me about technology.
+improved prompt: Explain how artificial intelligence is transforming the healthcare industry, including examples of AI-powered tools and their impact on patient care
+explanation:
+Clarity & Specificity – The improved prompt focuses on artificial intelligence in healthcare, rather than the broad and vague term technology.
+Defined Scope – It requests information on AI-powered tools and their impact on patient care, avoiding a generic response.
+Conciseness – The improved prompt is direct and structured, guiding the AI to provide focused and relevant information.
